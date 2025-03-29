@@ -17,6 +17,16 @@
 
 Ejemplo básico de API REST utilizando Spring Boot.
 
+## Autores
+* Rodrigo Ivan Olvera Martinez
+* Manuel Mérida Aguilar
+* Omar Nieto Crisóstono
+* Ernesto Velasco Arciniega
+
+De igual forma se pueden ver los participantes en el end point con la ruta:
+
+    /api/vuelo/creditos
+
 ## Objetivo
 
 Aplicar los conceptos de Spring Boot para construir, desde cero, un sistema que permita gestionar
